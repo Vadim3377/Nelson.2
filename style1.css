@@ -1,0 +1,35 @@
+body{
+	font-family: "Comfortaa", cursive;
+	background-color: linear-gradient(to left, #58eb34,#181a19);
+}
+div{
+	width: 70%;
+	margin: auto;
+}
+header{
+	background-color: white;
+}
+header img{
+	display: block;
+	margin: auto;
+	height: 70vh;
+	width: auto;
+}
+
+img {
+	margin: auto;
+	height: 70vh;
+	width: auto;
+
+
+}
+h1{
+	margin: auto;
+	margin-bottom: 40px;
+	display: block;
+}
+h2 {
+	margin: auto;
+	margin-bottom: 40px;
+	display: block;
+}

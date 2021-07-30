@@ -1,0 +1,29 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+div{
+	width: 70%;
+	margin: auto;
+}
+header{
+	background-color: black;
+}
+
+img {
+	width: 100%;
+	margin-bottom: 40px;
+}
+
+header img{
+	display: block;
+	margin: auto;
+	height: 30vh;
+	width: auto;
+}
+
+h1{
+	margin-bottom: 80px;
+}
+h2 {
+	margin-top: 80px;
+}
